@@ -1,0 +1,28 @@
+Q> What is the difference between forEach, map, filter and reduce ?
+Explain these using your own words
+
+forEach-> calls a function once for each elemnent in an array.
+
+map -> applies an operation to each elements of the array.
+        creates a new array
+filter -> takes each element of array and applies an conditional statment
+
+reduce -> reduces an array of values down to just one value.
+        To get the output value, it runs a reducer function on each element of the array.
+
+
+Q> Explain the difference between function declaration and arrow function ?
+
+
+Q> Explain the difference between find and findIndex ?
+
+
+Q> If you like to filter out one object element in an array which method do you like to use: filter or find ? Explain
+
+
+Q> Explain the difference of var, let and const when we declare a variable ?
+
+var -> can be updated and redeclared
+let -> can be updated but not redeclared
+const -> can neither be updated nor redeclared
+
